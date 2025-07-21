@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic[dotenv,email]
+pydantic-settings
+httpx
+apscheduler
+openai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+langchain
+langgraph
+langchain-openai
+langchain-google-genai
+google-cloud-speech
