@@ -13,3 +13,4 @@ langgraph
 langchain-openai
 langchain-google-genai
 google-cloud-speech
+python-dateutil
